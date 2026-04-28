@@ -1,0 +1,9 @@
+{
+  "name": "daily-genai-news",
+  "version": "1.0.0",
+  "description": "Automated daily GenAI and AI Agents news digest",
+  "main": "create_news_doc.js",
+  "scripts": {
+    "generate": "node create_news_doc.js"
+  },
+  "keywords": ["genai", "ai-agents", "news", "diges
